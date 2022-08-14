@@ -1,14 +1,14 @@
 rec{
-  env="rec"
+  env=rec
   vision={
-     name="SABE"
+     name=SABE
          }
 }
 
 prd{
-  env="prd"
+  env=prd
   vision={
-    name="SABE"
+    name=SABE
       } 
 }
     
